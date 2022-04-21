@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://camo.githubusercontent.com/6f817339f07e935627ac53f051c568988ae7ec76083fcac3b80bed4e1248abdd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d53616e746f7368497965723330267468656d653d616c676f6c6961
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Srikant33&theme=algolia" alt="Srikant33"  /></p>
